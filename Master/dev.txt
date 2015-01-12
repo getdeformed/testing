@@ -1,1 +1,1 @@
-This is a file that has been merged from dev.
+This is a file that has conflict been merged from dev.
